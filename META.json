@@ -4,7 +4,7 @@
       "Dominik Schulz <dominik.schulz@gauner.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 4.300028, CPAN::Meta::Converter version 2.120921",
+   "generated_by" : "Dist::Zilla version 4.300034, CPAN::Meta::Converter version 2.130880",
    "license" : [
       "perl_5"
    ],
@@ -61,7 +61,7 @@
          "web" : "https://github.com/gittex/Linux-LVM2"
       }
    },
-   "version" : "0.12",
+   "version" : "0.14",
    "x_authority" : "cpan:TEX"
 }
 

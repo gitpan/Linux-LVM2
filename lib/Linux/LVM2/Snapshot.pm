@@ -1,6 +1,6 @@
 package Linux::LVM2::Snapshot;
 {
-  $Linux::LVM2::Snapshot::VERSION = '0.12';
+  $Linux::LVM2::Snapshot::VERSION = '0.14';
 }
 BEGIN {
   $Linux::LVM2::Snapshot::AUTHORITY = 'cpan:TEX';

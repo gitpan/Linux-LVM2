@@ -1,6 +1,6 @@
 package Linux::LVM2;
 {
-  $Linux::LVM2::VERSION = '0.12';
+  $Linux::LVM2::VERSION = '0.14';
 }
 BEGIN {
   $Linux::LVM2::AUTHORITY = 'cpan:TEX';
